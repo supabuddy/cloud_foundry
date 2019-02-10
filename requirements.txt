@@ -1,2 +1,5 @@
 Flask
 gunicorn
+requests
+cryptography
+algosec==0.6.1
